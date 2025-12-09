@@ -1,15 +1,5 @@
-# 🚀 Deployment Automation
+# Deployment Automation
 
-Automated deployment scripts.
+Automated deployment with rollback.
 
-## Features
-- Multi-environment support
-- Blue-green deployments
-- Rollback automation
-- Health checks
-- Notification system
-- Integration with CI/CD
-
----
-
-**POWERED BY L8AB SYSTEMS** ⚡
+**POWERED BY L8AB SYSTEMS**
