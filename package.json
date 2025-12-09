@@ -1,0 +1,10 @@
+{
+  "name": "deployment-automation",
+  "version": "1.0.0",
+  "description": "Automated deployment tool with rollback support by L8ab Systems",
+  "main": "src/deploymentautomation.js",
+  "scripts": {
+    "start": "node src/deploymentautomation.js"
+  },
+  "dependencies": {}
+}
